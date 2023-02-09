@@ -8,7 +8,7 @@
 #include <iostream>
 #include <string.h>
 #include <conio.h>
-#include "TextTable.h" // Displays the content as tables. (Input the library form the file "TextTable.h")
+#include "../libraries/TextTable.h" // Displays the content as tables. (Input the library form the file "TextTable.h")
 using namespace std;
 
 int startIndex = 1;     // Define a number from where the process numbers will start counting
